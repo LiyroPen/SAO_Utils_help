@@ -1,4 +1,4 @@
-# 安装{#suh_3}
+# 安装{#suh_2-2}
 下载完成后，打开安装文件<br>
 （以下为示范步骤）<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1.jpg)（帮助文档中的文件名不保证是最新版本的，以实际下载内容为准）<br>
