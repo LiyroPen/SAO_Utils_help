@@ -1,4 +1,4 @@
-# 升级{@suh_4}
+# 升级 {#suh_2-3}
 [！！！修改过SU图片资源的人请先查看此页！！！]<br>
 [此页适用于新人和没有对SU进行过魔改的人]<br><br><br>
 在官网[http://www.gpbeta.com/post/develop/sao-utils/](http://www.gpbeta.com/post/develop/sao-utils/)下载最新的[一键安装/升级]安装程序<br>
