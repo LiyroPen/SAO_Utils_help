@@ -9,4 +9,7 @@
 SU本体SU.md{#suh_3}
 启动器starter.md{#suh_3-1}
 打开方式open.md{#suh_3-1-1}
-项目编辑方式
+项目编辑方式Project_editing_mode.md{#suh3-1-2}
+项目编辑方式-主菜单Project_editing_mode_primary_menu.md{#suh3-1-2-1}
+项目编辑方式-次菜单Project_editing_mode_n_menu.md{#suh3-1-2-2}
+项目编辑方式-主菜单Project_editing_mode_primary_menu.md{#suh3-1-2-1}
