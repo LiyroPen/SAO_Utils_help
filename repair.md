@@ -1,4 +1,4 @@
-# 修复
+# 修复 {#suh_2-4}
 【SU整体修复】<br>
 打开安装SU的软件<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/6-1.jpg)<br>
