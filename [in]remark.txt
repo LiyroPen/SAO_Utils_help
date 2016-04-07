@@ -4,7 +4,7 @@
 下载download.md{#suh_2-1}
 安装install.md{#suh_2-2}
 升级upgrade.md{#suh_2-3}
-#修改过SU图片资源的升级upgrade_2.md{#suh_2-3-1}
+修改过SU图片资源的升级upgrade_2.md{#suh_2-3-1}
 修复repair.md{#suh_2-4}
 SU本体SU.md{#suh_3}
 启动器starter.md{#suh_3-1}
@@ -12,4 +12,17 @@ SU本体SU.md{#suh_3}
 项目编辑方式Project_editing_mode.md{#suh3-1-2}
 项目编辑方式-主菜单Project_editing_mode_primary_menu.md{#suh3-1-2-1}
 项目编辑方式-次菜单Project_editing_mode_n_menu.md{#suh3-1-2-2}
-项目编辑方式-主菜单Project_editing_mode_primary_menu.md{#suh3-1-2-1}
+项目编辑方式-主菜单-勾选子菜单Project_editing_mode_primary_menu1.md{#suh3-1-2-1-1}
+项目编辑方式-主菜单-勾选动作Project_editing_mode_primary_menu2.md{#suh3-1-2-1-2}
+项目编辑方式-次菜单-勾选子菜单Project_editing_mode_n_menu.md{#suh3-1-2-2-1}
+项目编辑方式-次菜单-勾选动作Project_editing_mode_n_menu.md{#suh3-1-2-2-2}
+启动器预览图片starter_preview_pictures.md{#suh_3-1-3}
+首选项preference.md{#suh_3-2}
+主题theme.md{#suh_4}
+插件plugins.md{#suh_5}
+插件-这个是什么插件plugins_wtf.md{#suh_5-1}
+插件-GGO桌面挂件plugins_GGO_Widget.md{#suh_5-2}
+插件-GGO桌面挂件-编辑项目plugins_GGO_Widget_edit.md{#suh_5-2-1}
+插件-GGO桌面挂件-数字或文本plugins_GGO_Widget_text.md{#suh_5-2-2}
+插件-GGO桌面挂件-上传\下载速度监控plugins_GGO_Widget_u&d.md{#suh_5-2-3}
+插件-音乐播放器支持plugins_Music_Player_Support.md{#suh_5-3}
