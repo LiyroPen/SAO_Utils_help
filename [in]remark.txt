@@ -32,4 +32,9 @@ SU本体SU.md{#suh_3}
 插件-音乐播放器支持-非Foobar2000、通用播放器相关plugins_MPS_player_ect.md{#suh_5-3-3}
 插件-音乐播放器支持-通用播放器相关plugins_MPS_universal_player.md{#suh_5-3-4}
 插件-音乐播放器支持-控制播放器plugins_MPS_control_player.md{#suh_5-3-5}
-插件-快捷键扩展
+插件-快捷键扩展plugins_Shortcut_Keys_Extension.md{#suh_5-4}
+插件-Mail box：plugins_mail_box.md{#suh_5-5}
+插件-桌面图片挂件plugins_Image_Widget.md{#suh_5-6}
+插件-桌面网页挂件plugins_Web_Widget.md{#suh_5-7}
+插件-HP计量表挂件plugins_HP_Bar.md{#suh_5-8}
+鸣谢thank.md{#suh_6}
