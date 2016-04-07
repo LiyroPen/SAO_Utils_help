@@ -6,3 +6,6 @@
 按![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-2-3.jpg)进入编辑页面<br>
 接下来的情况分为@ref suh_3-1-2-2-1 "勾选子菜单"与@ref suh_3-1-2-2-2 "勾选动作"<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-2-4.jpg)
+
+- @subpage suh_3-1-2-2-1
+- @subpage suh_3-1-2-2-2
