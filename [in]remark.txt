@@ -26,4 +26,10 @@ SU本体SU.md{#suh_3}
 插件-GGO桌面挂件-数字或文本plugins_GGO_Widget_text.md{#suh_5-2-2}
 插件-GGO桌面挂件-上传\下载速度监控plugins_GGO_Widget_u&d.md{#suh_5-2-3}
 插件-音乐播放器支持plugins_Music_Player_Support.md{#suh_5-3}
-插件-音乐播放器支持-信息滚动显示plugins_MPS_.md{#suh_5-3-1}
+插件-音乐播放器支持-信息滚动显示plugins_MPS_Information_scroll_display.md{#suh_5-3-1}
+插件-音乐播放器支持-Foobar2000相关plugins_MPS_Foobar2000.md{#suh_5-3-2}
+插件-音乐播放器支持-Foobar2000相关-CAD插件安装方法plugins_MPS_Foobar2k_CAD.md{#suh_5-3-2-1}
+插件-音乐播放器支持-非Foobar2000、通用播放器相关plugins_MPS_player_ect.md{#suh_5-3-3}
+插件-音乐播放器支持-通用播放器相关plugins_MPS_universal_player.md{#suh_5-3-4}
+插件-音乐播放器支持-控制播放器plugins_MPS_control_player.md{#suh_5-3-5}
+插件-快捷键扩展
