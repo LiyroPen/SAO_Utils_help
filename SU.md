@@ -139,7 +139,7 @@ win10用户如果找的是后台进程请按[详细信息]找，win7及以下系
 未安装插件：检查有什么插件没装的（仅限于官网上的插件，不包括主题插件）
 
 # 首选项-外观 {#suh_3-2-3}
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-2-3-1.jpg)
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-2-3-1.jpg)<br>
 启动器模式：选择启动器的显示是2d还是3d<br>
 启动器位置：[跟随鼠标]启动器出现位置中心为鼠标位置，[固定]启动器出现位置会固定为右边的选项<br>
 背景浓度：呼出启动器后背景的透明度<br>
