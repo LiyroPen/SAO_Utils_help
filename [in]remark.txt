@@ -1,11 +1,11 @@
 封面home.md{#suh_0}
 常识nous.md{#suh_1}
 下载等事项Download_etc.md{#suh_2}
-下载download.md{#suh_2-1}
-安装install.md{#suh_2-2}
-升级upgrade.md{#suh_2-3}
-修改过SU图片资源的升级upgrade_2.md{#suh_2-3-1}
-修复repair.md{#suh_2-4}
+下载Download_etc.md{#suh_2-1}
+安装Download_etc.md{#suh_2-2}
+升级Download_etc.md{#suh_2-3}
+修改过SU图片资源的升级Download_etc.md{#suh_2-3-1}
+修复Download_etc.md{#suh_2-4}
 SU本体SU.md{#suh_3}
 启动器starter.md{#suh_3-1}
 打开方式open.md{#suh_3-1-1}
