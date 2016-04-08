@@ -100,3 +100,7 @@ mailto://（后面加上要收件人的电子邮箱地址，这个链接的作�
 记事本: notepad<br>
 计算器: calc<br>
 确认内容编辑无误后请点击![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-1-2-3.jpg)
+
+# 启动器预览图片 {#suh_3-1-3}
+在启动器中，打开动作为打开图片文件的项目或真实目录中的图片文件，可以在启动器中预览图片<br>
+支持png、gif、jpg等格式的图片（只有gif格式图片才支持动态效果）
