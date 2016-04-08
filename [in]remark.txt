@@ -19,7 +19,7 @@ SU本体SU.md{#suh_3}
 首选项-打开方式preference_open.md{#suh_3-2-1}
 首选项-常规preference_convention.md{#suh_3-2-2}
 首选项-外观preference_facade.md{#suh_3-2-3}
-首选项-图像preference_picture.md{#suh_3-2-4}
+首选项-图形preference_picture.md{#suh_3-2-4}
 首选项-音效preference_sound_effect.md{#suh_3-2-5}
 首选项-插件preference_plugins.md{#suh_3-2-6}
 首选项-关于preference_about.md{#suh_3-2-7}
