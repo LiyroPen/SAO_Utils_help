@@ -21,3 +21,14 @@ SU本体即可以打开SU设置（首选项）的地方
 双击红框中的图标（即SU的托盘图标）<br><br>
 启动器的打开方式可在@ref suh_suh_3-2-2 "首选项-常规"查看调整方式<br>
 启动器的打开位置可在@ref suh_suh_3-2-3 "首选项-外观"查看调整方式
+
+# 项目编辑方式 {#suh_3-1-2}
+呼出启动器后的项目编辑<br>
+在右键项目时如果出现：![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-1.jpg)<br>
+请在呼出启动器后界面的左上角找到![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-2.jpg)点击，去掉[锁定启动器]的勾即可<br>
+或者右键任务栏上的SU托盘图标<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-3.jpg)<br>
+去掉[锁定启动器]的勾<br>
+
+- @subpage suh_3-1-2-1
+- @subpage suh_3-1-2-2
