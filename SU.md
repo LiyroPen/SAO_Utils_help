@@ -3,3 +3,14 @@ SU本体即可以打开SU设置（首选项）的地方
 
 - @subpage suh_3-1
 - @subpage suh_3-2
+
+# 启动器 {#suh_3-1}
+启动器就是这种东西<br>
+启动器界面的视觉效果可在@ref suh_3-2-3 "首选项--外观"设置<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-1.jpg)
+
+- @subpage suh_3-1-1
+- @subpage suh_3-1-2
+- @subpage suh_3-1-3
+
+# 打开方式 {#suh_3-1-1}
