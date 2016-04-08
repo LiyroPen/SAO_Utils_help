@@ -109,3 +109,8 @@ mailto://（后面加上要收件人的电子邮箱地址，这个链接的作�
 首选项就是这个东西<br>
 [重置]使首选项的全部设置返回最初状态<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-2-1.jpg)
+
+# 首选项-打开方式 {#suh_3-2-1}
+方式1：在任务栏中的SU托盘图标右键，按[首选项]打开<br>
+方式2：呼出启动器![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-2-1-1.jpg)<br>
+在此之后就是首选项了
