@@ -26,7 +26,7 @@ SAO Utils版本不低于Alpha 3/Beta 1，NERvGear版本不低于0.3.0 <br>
 
 | 播放器名称       | 版本需求      | 备注 |
 | -------------    | :-----------: | :------------------: |
-| @ref suh_5-3-2 "Foobar2000"       | 不低于1.11.11 | 需安装foo_cad_plus插件<br>foo_cad_plus的下载和安装方式看[CAD插件安装方法]|
+| @ref suh_5-3-2 "Foobar2000"       | 不低于1.11.11 | 需安装foo_cad_plus插件<br>foo_cad_plus的下载和安装方式看@ref suh_5-3-2-1 "CAD插件安装方法"|
 | @ref suh_5-3-3 "网易云音乐"       | 不明          |                      |
 | @ref suh_5-3-3 "虾米音乐"         | 不低于2.0     |                      |
 | @ref suh_5-3-3 "QQ音乐"           | 不明          |                      |
@@ -44,3 +44,8 @@ SAO Utils版本不低于Alpha 3/Beta 1，NERvGear版本不低于0.3.0 <br>
 - @subpage suh_5-3-3
 - @subpage suh_5-3-4
 - @subpage suh_5-3-5
+
+# 信息滚动显示 {#suh_5-3-1}
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-1-1.jpg)<br>
+在GGO桌面挂件[数字或文本]中附属于[音乐播放器数据集]的数据都可以在[更新参数]开头写上“%@%”    ，启用滚动模式。如果想在内容超过一定数目后才开启滚动模式，可以写成“%@n%”的形式，n为指定实数，如“%@10%”，表示在内容字数超过10的情况下才开启滚动。<br>
+调整更新间隔可以调整滚动速度
