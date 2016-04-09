@@ -45,9 +45,9 @@ SAO Utils适用平台：64\32位 Windows 2000,xp,Vista,7,8,8.1,10<br>
 此处必须选择[自定义]<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-3-2.jpg)<br>
 [浏览]选择自己要升级的SU文件夹，确认后按[下一步]（这样并不会使SU原来的设置消失，所以放心继续）<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-3-3.jpg)<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-2-4.jpg)<br>
 点击[安装]<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-3-4.jpg)<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-2-5.jpg)<br>
 推荐保留[启动SAO Utils]的勾，点击[完成]，SU会自动启动<br>
 升级完成
 
@@ -65,8 +65,8 @@ SAO Utils适用平台：64\32位 Windows 2000,xp,Vista,7,8,8.1,10<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-4-1.jpg)<br>
 点击[修复]，继续点[修复]开始修复<br><br>
 【单一插件修复】<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-4-2.jpg)<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-4-1.jpg)<br>
 点[修改]<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-4-3.jpg)<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/2-4-2.jpg)<br>
 要修复的地方保留绿框中的状态，不修复的地方都选择红框里的状态<br>
 接着[下一步]，等待修复完毕
