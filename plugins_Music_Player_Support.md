@@ -90,7 +90,7 @@ CAD插件下载地址：[https://github.com/RangerCD/foo-cad-plus/releases/downl
 
 # 非Foobar2000、通用播放器相关 {#suh_5-3-3}
 [即网易云音乐、虾米音乐、QQ音乐、酷狗音乐、千千静听（老版）相关]<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-3-1.jpg)<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-1-1.jpg)<br>
 相关信息的显示请[[!按自己使用的播放器选择，不要选择其他播放器里面的数据，如果想用那个播放器的数值就去使用那个播放器!]]，这些播放器能获取的信息偏少是因为目前RangerCD只能从窗口标题获取信息，若有相关接口资料欢迎联系RangerCD
 设置完整后记得重启音乐播放器软件和SU软件,以确保成功设置
 
