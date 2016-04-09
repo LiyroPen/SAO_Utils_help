@@ -26,12 +26,13 @@
 名称：用于标注挂件的命名,此命名仅显示在选择类型选项的"条形图、直方图"时会显示，如：![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-2-1-2.jpg)<br>
 空白：此项目不显示任何文本以及其它显示<br>
 静态图片：类型选项选择静态图片,点击下方<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-2-1-3.jpg)
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-2-1-3.jpg)<br>
 点击选择图片进行添加,即可在该挂件项目中显示所选择图片(类型PNG)<br><br>
 数字或文本：选择"数字或文本"选项,点击下方"点击选择数据",进入<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-2-1-4.jpg)<br>
 选择数值框内选择对应需要设置的"数值或数据"，详情看@red suh_5-2-2 "数字或文本"<br>
-条形图：点选后按下面的长条，选择显示的数字，只能显示百分比数据，显示效果如此：![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-2-1-4.jpg)<br>
-直方图：点选后按下面的长条，选择显示的数字，只能显示百分比数据，显示效果如此：![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-2-1-5.jpg)<br><br>
+条形图：点选后按下面的长条，选择显示的数字，只能显示百分比数据，显示效果如此：![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-2-1-5.jpg)<br>
+直方图：点选后按下面的长条，选择显示的数字，只能显示百分比数据，显示效果如此：![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-2-1-6.jpg)<br><br>
 勾选[动作]可以使项目在点击后做出相应动作<br>
 勾选[执行前需确认]，使项目点击后确认才能实行动作<br>
 勾选[执行后保持启动器]，使项目点击后不会退出主菜单<br>
