@@ -15,7 +15,7 @@ SAO Utils本体开发者：GP beta<br>
 
 鸣谢
 ===
-RangerCD、GP beta、OP、etwahl4
+GP beta、OP、RangerCD、etwahl4
 
 - @subpage suh_1
 - @subpage suh_2
