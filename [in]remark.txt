@@ -16,13 +16,13 @@ SU本体SU.md{#suh_3}
 项目编辑方式-主菜单/展开菜单-勾选动作PEM_primary_menu2.md{#suh_3-1-2-1-2}
 启动器预览图片starter_preview_pictures.md{#suh_3-1-3}
 首选项preference.md{#suh_3-2}
-首选项-打开方式preference_open.md{#suh_3-2-1}
-首选项-常规preference_convention.md{#suh_3-2-2}
-首选项-外观preference_facade.md{#suh_3-2-3}
-首选项-图形preference_picture.md{#suh_3-2-4}
-首选项-音效preference_sound_effect.md{#suh_3-2-5}
-首选项-插件preference_plugins.md{#suh_3-2-6}
-首选项-关于preference_about.md{#suh_3-2-7}
+首选项-打开方式preference.md{#suh_3-2-1}
+首选项-常规preference.md{#suh_3-2-2}
+首选项-外观preference.md{#suh_3-2-3}
+首选项-图形preference.md{#suh_3-2-4}
+首选项-音效preference.md{#suh_3-2-5}
+首选项-插件preference.md{#suh_3-2-6}
+首选项-关于preference.md{#suh_3-2-7}
 主题theme.md{#suh_4}
 插件plugins.md{#suh_5}
 插件-这个是什么插件plugins_wtf.md{#suh_5-1}
@@ -42,4 +42,5 @@ SU本体SU.md{#suh_3}
 插件-桌面图片挂件plugins_Image_Widget.md{#suh_5-6}
 插件-桌面网页挂件plugins_Web_Widget.md{#suh_5-7}
 插件-HP计量表挂件plugins_HP_Bar.md{#suh_5-8}
+插件-网页浏览器引擎plugins_Web_Browser_Engine.md{#suh_5-9}
 鸣谢thank.md{#suh_6}
