@@ -14,7 +14,7 @@ SU本体即可以打开SU设置（首选项）的地方
 - @subpage suh_3-1-3
 
 # 启动器-打开方式 {#suh_3-1-1}
-方式1：![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-1-1.jpg?raw=true)点击这个黑色圆<br>
+方式1：![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-1-1.jpg?raw=true)点击这个黑色圆<br>
 方式2（在没修改过启动器热键的情况下才可用）：鼠标同时按住左键和右键往下滑<br>
 方式3：找到类似这样的东西（就是任务栏）<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-1-2.jpg?raw=true)
