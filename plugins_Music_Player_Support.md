@@ -77,3 +77,11 @@ SAO Utils版本不低于Alpha 3/Beta 1，NERvGear版本不低于0.3.0 <br>
 实例："%title%by%artist%"按[标题by艺术家]输出<br><br>
 当Foobar2000安装了ffo\_cad\_plus后可以利用桌面网页挂件将程序目录下的SAO Utils\Plugins\Music Player Support\widget\cover demo\index.html加载显示封面。安装了ffo\_cad插件的Foobar2000需在安装了ffo\_cad\_plus后将ffo_cad卸载 <br>
 设置完整后记得重启音乐播放器软件和SU软件,以确保成功设置
+
+# Foobar2000相关-CAD插件安装方法 {#suh_5-3-2-1}
+CAD插件下载地址：[https://github.com/RangerCD/foo-cad-plus/releases/download/v1.1.1/foo_cad_plus-1.1.1.fb2k-component](https://github.com/RangerCD/foo-cad-plus/releases/download/v1.1.1/foo_cad_plus-1.1.1.fb2k-component),[备用地址](http://pan.baidu.com/s/1mhwKQRu)
+打开Foobar2000<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-2-1-1.jpg)<br>
+点[参数选项]<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-2-1-2.jpg)<br>
+点[组件]，[安装…]，选择插件文件进行安装
