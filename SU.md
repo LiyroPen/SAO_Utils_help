@@ -50,9 +50,9 @@ SU本体即可以打开SU设置（首选项）的地方
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-2-1.jpg)此文档中将红框往右的项目（包括红框中）称为展开菜单<br>
 次菜单项目的编辑方法：右键项目出现如下情况<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-2-2.jpg)按钮从左到右为：编辑项目、添加新项目、拖动移动项目、移除项目<br>
-按![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-2-3.jpg)进入编辑页面<br>
+按![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-1-5.jpg)进入编辑页面<br>
 接下来的情况分为@ref suh_3-1-2-1-1 "勾选子菜单"与@ref suh_3-1-2-1-2 "勾选动作"<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-2-4.jpg)
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-1-6.jpg)
 
 # 项目编辑方式-主菜单/展开菜单-勾选子菜单 {#suh_3-1-2-1-1}
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-1-1-1.jpg)<br>
@@ -99,7 +99,7 @@ mailto://（后面加上要收件人的电子邮箱地址，这个链接的作�
 命令行: cmd<br>
 记事本: notepad<br>
 计算器: calc<br>
-确认内容编辑无误后请点击![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-1-2-3.jpg)
+确认内容编辑无误后请点击![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-1-2-1-1-3.jpg)
 
 # 启动器预览图片 {#suh_3-1-3}
 在启动器中，打开动作为打开图片文件的项目或真实目录中的图片文件，可以在启动器中预览图片<br>
@@ -116,7 +116,7 @@ mailto://（后面加上要收件人的电子邮箱地址，这个链接的作�
 在此之后就是首选项了
 
 # 首选项-常规 {#suh_3-2-2}
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-2-2-1.jpg)<br>
+![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/3-2-1.jpg)<br>
 长按超时：调整长按打开菜单的所需时间（此动作本同于SU中的右键），关闭会使长按动作无法打开菜单<br>
 锁定启动器：使主菜单的所有项目无法编辑、移动移除，也无法添加项目<br>
 显示操作提示：勾选后，鼠标停在一些地方会有相关提示<br>
