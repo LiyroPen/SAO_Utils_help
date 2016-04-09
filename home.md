@@ -13,6 +13,10 @@ SAO Utils本体开发者：GP beta<br>
 2016.4.3    v0.1编写完毕，SU的基本使用写入<br>
 2016.3.21   开始编写文档<br>
 
+鸣谢
+===
+RangerCD、GP beta、OP、etwahl4
+
 - @subpage suh_1
 - @subpage suh_2
 - @subpage suh_3
