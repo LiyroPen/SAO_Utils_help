@@ -1,5 +1,5 @@
 # 桌面网页挂件 {#suh_5-7}
-[桌面网页挂件]插件依赖[网页浏览器引擎]运行
+[桌面网页挂件]插件依赖[网页浏览器引擎]运行<br>
 [桌面网页挂件]允许用户将网页、网页、swf格式文件（flash文件）、PDF文件等挂载在此类挂件上
 ***
 ![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-7-1.jpg)<br>
