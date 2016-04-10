@@ -3,6 +3,7 @@ SU本体即可以打开SU设置（首选项）的地方
 
 - @subpage suh_3-1
 - @subpage suh_3-2
+- @subpage suh_3-3
 
 # 启动器 {#suh_3-1}
 启动器就是这种东西<br>
