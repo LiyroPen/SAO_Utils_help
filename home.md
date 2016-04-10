@@ -22,4 +22,4 @@ GP beta、OP、RangerCD、etwahl4
 - @subpage suh_2
 - @subpage suh_3
 - @subpage suh_4
-- @suhpage suh_5
+- @subpage suh_5
