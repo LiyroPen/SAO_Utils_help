@@ -51,10 +51,10 @@ keys://（后面加上项目点击后自动实行的按键，如：keys://win+s�
 mailto://（后面加上要收件人的电子邮箱地址，这个链接的作用就是发邮件）<br>
 我的电脑:file://::{20D04FE0-3AEA-1069-A2D8-08002B30309D}<br>
 系统库:file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}<br>
-我的文档:file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\Documents.library-ms<br>
-我的音乐: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\Music.library-ms<br>
-我的图片: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\Pictures.library-ms<br>
-我的视频: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\Videos.library-ms<br>
+我的文档:file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\\Documents.library-ms<br>
+我的音乐: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\\Music.library-ms<br>
+我的图片: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\\Pictures.library-ms<br>
+我的视频: file://::{031E4825-7B94-4dc3-B131-E946B44C8DD5}\\Videos.library-ms<br>
 回收站:file://::{645FF040-5081-101B-9F08-00AA002F954E}<br><br>
 命令：勾选[命令]后点![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/3-1-2-1-2-2.jpg)<br>
 可以输入项目点击后所实行的cmd命令<br>
