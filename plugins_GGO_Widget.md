@@ -22,7 +22,7 @@
  
 # 编辑项目 {#suh_5-2-1}
 打开GGO挂件项目编辑界面
-![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help//master/Images/5-2-1-1.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-2-1-1.jpg)<br>
 名称：用于标注挂件的命名,此命名仅显示在选择类型选项的"条形图、直方图"时会显示，如：![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-2-1-2.jpg)<br>
 空白：此项目不显示任何文本以及其它显示<br>
 静态图片：类型选项选择静态图片,点击下方<br>
