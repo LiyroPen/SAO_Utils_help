@@ -46,13 +46,13 @@ SAO Utils版本不低于Alpha 3/Beta 1，NERvGear版本不低于0.3.0 <br>
 - @subpage suh_5-3-5
 
 # 信息滚动显示 {#suh_5-3-1}
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-1-1.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-3-1-1.jpg)<br>
 在GGO桌面挂件[数字或文本]中附属于[音乐播放器数据集]的数据都可以在[更新参数]开头写上“%@%”    ，启用滚动模式。如果想在内容超过一定数目后才开启滚动模式，可以写成“%@n%”的形式，n为指定实数，如“%@10%”，表示在内容字数超过10的情况下才开启滚动。<br>
 调整更新间隔可以调整滚动速度
 
 # Foobar2000相关 {#suh_5-3-2}
 支持GGO桌面挂件从Foobar2000中获取数据，通过[音乐播放器数据集]中的[CAD兼容播放器]所属数据选取显示<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-2-1.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-3-2-1.jpg)<br>
 
 | 名称              | 类型   | 备注 |
 | :---------------: | :----: | :----: |
@@ -83,14 +83,14 @@ SAO Utils版本不低于Alpha 3/Beta 1，NERvGear版本不低于0.3.0 <br>
 # Foobar2000相关-CAD插件安装方法 {#suh_5-3-2-1}
 CAD插件下载地址：[https://github.com/RangerCD/foo-cad-plus/releases/download/v1.1.1/foo_cad_plus-1.1.1.fb2k-component](https://github.com/RangerCD/foo-cad-plus/releases/download/v1.1.1/foo_cad_plus-1.1.1.fb2k-component),[备用地址](http://pan.baidu.com/s/1mhwKQRu)
 打开Foobar2000<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-2-1-1.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-3-2-1-1.jpg)<br>
 点[参数选项]<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-2-1-2.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-3-2-1-2.jpg)<br>
 点[组件]，[安装…]，选择插件文件进行安装
 
 # 非Foobar2000、通用播放器相关 {#suh_5-3-3}
 [即网易云音乐、虾米音乐、QQ音乐、酷狗音乐、千千静听（老版）相关]<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-1-1.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-3-1-1.jpg)<br>
 相关信息的显示请[[!按自己使用的播放器选择，不要选择其他播放器里面的数据，如果想用那个播放器的数值就去使用那个播放器!]]，这些播放器能获取的信息偏少是因为目前RangerCD只能从窗口标题获取信息，若有相关接口资料欢迎联系RangerCD
 设置完整后记得重启音乐播放器软件和SU软件,以确保成功设置
 
@@ -99,7 +99,7 @@ CAD插件下载地址：[https://github.com/RangerCD/foo-cad-plus/releases/downl
 
 # 控制播放器 {#suh_5-3-5}
 在调用参数中填入某些特定的参数，可以为使用这项数据的挂件添加对播放器的控制功能，例如单击挂件暂停、单击挂件下一曲等功能就是依此实现的<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-5-1.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-3-5-1.jpg)<br>
 各播放器支持参数如下表。若您使用的播放器不支持某项参数，请尝试利用@ref suh_5-4 "快捷键扩展"或使用通用播放器参数<br>
 
 | 参数含义→        | 播放 | 暂停 | 上一曲 | 下一曲 | 音量加\减 | 音量加n\减n |
@@ -114,4 +114,4 @@ CAD插件下载地址：[https://github.com/RangerCD/foo-cad-plus/releases/downl
 | 参数→→           | play | pause| prev   | next   | vol+\vol- | vol+n\vol-n |
 
 注：vol+n/vol-n代表可以在vol+/vol-后带有数字，一次性调整n级音量，例如vol+5代表单击一次音量增加5<br>
-示例图：![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-3-5-2.jpg)
+示例图：![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-3-5-2.jpg)
