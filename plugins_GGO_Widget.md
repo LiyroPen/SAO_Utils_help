@@ -30,7 +30,7 @@
 点击选择图片进行添加,即可在该挂件项目中显示所选择图片(类型PNG)<br><br>
 数字或文本：选择"数字或文本"选项,点击下方"点击选择数据",进入<br>
 ![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-2-1-4.jpg)<br>
-选择数值框内选择对应需要设置的"数值或数据"，详情看@red suh_5-2-2 "数字或文本"<br>
+选择数值框内选择对应需要设置的"数值或数据"，详情看@ref suh_5-2-2 "数字或文本"<br>
 条形图：点选后按下面的长条，选择显示的数字，只能显示百分比数据，显示效果如此：![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-2-1-5.jpg)<br>
 直方图：点选后按下面的长条，选择显示的数字，只能显示百分比数据，显示效果如此：![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-2-1-6.jpg)<br><br>
 勾选[动作]可以使项目在点击后做出相应动作<br>
