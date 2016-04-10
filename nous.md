@@ -10,4 +10,4 @@ SAO Utils没有鼠标点击特效，B站视频上的鼠标效果是录制软件�
 SAO Utils没有更改桌面背景、系统软件图标、任务栏背景等功能<br>
 在SU中的某些地方鼠标定在那里会出现相关提示，如：<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/1-1.jpg?raw=true)<br>
-提示可以在首选项---常规关闭 ，打开首选项方法此页
+提示可以在@ref suh_3-2-2 "首选项---常规"关闭
