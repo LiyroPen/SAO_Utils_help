@@ -20,8 +20,8 @@ SU本体即可以打开SU设置（首选项）的地方
 方式3：找到类似这样的东西（就是任务栏）<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-1-2.jpg?raw=true)
 双击红框中的图标（即SU的托盘图标）<br><br>
-启动器的打开方式可在@ref suh_suh_3-2-2 "首选项-常规"查看调整方式<br>
-启动器的打开位置可在@ref suh_suh_3-2-3 "首选项-外观"查看调整方式
+启动器的打开方式可在@ref suh\_suh_3-2-2 "首选项-常规"查看调整方式<br>
+启动器的打开位置可在@ref suh\_suh_3-2-3 "首选项-外观"查看调整方式
 
 # 项目编辑方式 {#suh_3-1-2}
 可直接拖动文件或程序至启动器的项目之间添加（开启启动器后按屏幕左上的按钮可选择取消置顶，从而使开启启动器时可点击任务栏）<br>
@@ -42,7 +42,7 @@ SU本体即可以打开SU设置（首选项）的地方
 右键这列要调整的项目![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-2-1-3.jpg?raw=true)直接左键[modify]可以编辑此项目<br>
 如果此时右键[modify]会出现![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-2-1-4.jpg?raw=true)按钮从左到右为：编辑项目、添加新项目、拖动移动项目、移除项目<br>
 点击![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-2-1-5.jpg?raw=true)出现详细编辑面板<br>
-接下来的情况分为@ref suh_3-1-2-1-1 "勾选子菜单"与@ref suh_3-1-2-1-2 "勾选动作"<br>
+接下来的情况分为@ref suh\_3-1-2-1-1 "勾选子菜单"与@ref suh_3-1-2-1-2 "勾选动作"<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-2-1-6.jpg?raw=true)<br>
 
 - @subpage suh_3-1-2-1-1
@@ -53,7 +53,7 @@ SU本体即可以打开SU设置（首选项）的地方
 次菜单项目的编辑方法：右键项目出现如下情况<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-2-2-2.jpg?raw=true)按钮从左到右为：编辑项目、添加新项目、拖动移动项目、移除项目<br>
 按![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-2-1-5.jpg?raw=true)进入编辑页面<br>
-接下来的情况分为@ref suh_3-1-2-1-1 "勾选子菜单"与@ref suh_3-1-2-1-2 "勾选动作"<br>
+接下来的情况分为@ref suh\_3-1-2-1-1 "勾选子菜单"与@ref suh_3-1-2-1-2 "勾选动作"<br>
 ![](https://github.com/LiyroPen/SAO_Utils_help/blob/master/Images/3-1-2-1-6.jpg?raw=true)
 
 # 项目编辑方式-主菜单/展开菜单-勾选子菜单 {#suh_3-1-2-1-1}
