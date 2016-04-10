@@ -1,13 +1,13 @@
 # 桌面图片挂件 {#suh_5-6}
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-6-1.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-6-1.jpg)<br>
 [桌面图片挂件]允许用户将图片挂载在此类挂件上
 ***
 挂载图片：直接拖动图片文件至挂件上，或点击挂件按+<br>
 拖动挂件：直接左键按住拖动<br>
-改变挂件大小：鼠标移至挂件处![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-6-2.jpg)，拖动红框处按钮（gif格式的图片无法改变大小，可用桌面网页挂件挂载gif图片）
+改变挂件大小：鼠标移至挂件处![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-6-2.jpg)，拖动红框处按钮（gif格式的图片无法改变大小，可用桌面网页挂件挂载gif图片）
 ***
 点击挂件出现的菜单<br>
-![](https://github.com/LiyroPen/SAO_Utils_help/tree/master/Images/5-6-3.jpg)<br>
+![](https://raw.githubusercontent.com/LiyroPen/SAO_Utils_help/master/Images/5-6-3.jpg)<br>
 从上到下说明<br>
 1：选择显示的图片<br>
 2：添加桌面图片挂件<br>
