@@ -46,3 +46,4 @@ SU本体SU.md{#suh_3}
 插件-网页浏览器引擎plugins_Web_Browser_Engine.md{#suh_5-9}
 插件-Bangumi:plugins_Bangumi.md{#suh5_10}
 插件-Bangumi-设置plugins_Bangumi.md{#suh_5-10-1}
+异常情况解决方案boom.md{#suh_6}
